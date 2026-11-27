@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tienganhgiaotiepbienhoadongnai.pages.dev/sitemap.xml
